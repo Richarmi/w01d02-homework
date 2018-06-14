@@ -31,4 +31,4 @@ This package has installed:
 	•	npm v6.1.0 to /usr/local/bin/npm
 Make sure that /usr/local/bin is in your $PATH.
 
-1.)
+1.) N/A
